@@ -17,6 +17,8 @@
 - history
 - collaboration
 - gists
+- Documentation
+- C
   
 ---
 [Home](/README.md) | [Previous](/page2.md) <<--->> [Next](/page4.md)
