@@ -4,3 +4,6 @@
 3. Intro to Markdown
 4. Intro to github pages
 5. Links to resources
+
+---
+[Home](/README.md) | [Previous](/README.md) << --->> [Next](/page2.md)
