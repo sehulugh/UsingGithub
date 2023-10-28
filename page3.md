@@ -11,10 +11,12 @@
 | Save to remote repository | `git push` |
 | get latest from remote repository | `git pull` |
 
-### What's cool about git?
+### What's cool :heart_eyes: about git?
 - Version control
 - branching
 - history
+- collaboration
+- gists
   
 ---
 [Home](/README.md) | [Previous](/page2.md) <<--->> [Next](/page4.md)
